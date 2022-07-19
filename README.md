@@ -1,4 +1,4 @@
 # mern-project
 
 
-Live Deployed Link : https://peppy-tanuki-3fff67.netlify.app/
+Live Deployed Link : https://mernapp-all-in-one.netlify.app/
